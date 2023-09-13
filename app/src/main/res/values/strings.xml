@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppPenaltysActivity</string>
+    <string name="btn_inicio">Inicio</string>
+    <string name="btn_izq">Izquierda</string>
+    <string name="btn_der">Derecha</string>
+    <string name="btn_ctro">Centro</string>
+    <string name="txtView_titulo">APP PENALTY KICKS</string>
+    <string name="txtView_inicio">COBRAR PENAL</string>
+</resources>
